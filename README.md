@@ -8,5 +8,4 @@ The webpage now prompts the user how long he/she wants the password to be
 The page also prompts the user if they want to include uppercase, lowercase, 
 symbols or numbers. The password is then generated and displayed inside the text box. 
 
-<img src = "./Password-Generator.png" alt="Deployed Site Screenshot"></img>
-
+<img src="./images/Password-Generator.png" alt="Deployed Webpage Screenshot"></img>
